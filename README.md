@@ -94,8 +94,8 @@ Soyle was architected and developed by my team.
 
 Soyle has completed its MVP phase and is currently live. We are open to investment opportunities to scale our operations.
 
-* **Email:** [ozturkmuhammetali395@gmail.com]
-* **LinkedIn:** [http://linkedin.com/in/muhammet-ali-%C3%B6zt%C3%BCrk-6a4577337]
+* **Email:** [nihat.avci813@gmail.com]
+* **LinkedIn:** [linkedin.com/in/nihat-avcı]
 
 ---
 *© 2025 Soyle. All Rights Reserved. Source code is held in private repositories for intellectual property protection.*
