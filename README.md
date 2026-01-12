@@ -31,11 +31,11 @@ we implemented a Modular Monolith architecture. We didn't just build a web app; 
 > 📂 Detailed Documentation
 > Transparency is key. Review our detailed project documents:
 
-* **Technical Architecture (v1):** [View PDF](docs/docs/soyle_documentation.pdf)
-* **Admin Panel User Manual:** [View PDF](docs/docs/Soyle_User_Manual.pdf)
-* **Product Vision & Strategy:** [View PDF](docs/docs/Product_Vision.pdf)
-* **Project Team Info Sheet:** [View PDF](docs/docs/Project_Team_Info_Sheet.pdf)
-* **Personas:** [View PDF](docs/docs/Personas_and_Scenarios.pdf)
+* **Technical Architecture (v1):** [View PDF](docs/soyle_documentation.pdf)
+* **Admin Panel User Manual:** [View PDF](docs/Soyle_User_Manual.pdf)
+* **Product Vision & Strategy:** [View PDF](docs/Product_Vision.pdf)
+* **Project Team Info Sheet:** [View PDF](docs/Project_Team_Info_Sheet.pdf)
+* **Personas:** [View PDF](docs/Personas_and_Scenarios.pdf)
 
 ### Core Technology Stack
 * **Backend:** Golang (Fiber Framework) – Selected for high concurrency and low-latency API responses.
